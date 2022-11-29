@@ -1,0 +1,19 @@
+9.En Git, ¿para qué sirve el comando git add?
+
+El comando git add añade un cambio del directorio de trabajo en el entorno de ensayo.
+
+10.En Git, ¿para qué sirve el comando git commit?
+
+El comando git commit sirve para confirmar una instantánea del directorio del entorno de ensayo en el historial de confirmaciones de los repositorios.
+
+11.En Git, ¿para qué sirve el comando git log?
+
+El comando git log es una herramienta utlizada para explorar el historial del repositorio
+
+12.En Git, ¿para qué sirve el comando git reset HEAD nombrearchivo?
+
+El comando git reset HEAD sirve para restablecer el HEAD actual en un estado especifico
+
+13.En Git, ¿para qué sirve el comando git checkout -- nombrearchivo?
+
+El comando git checkout te permite desplazarte entre las ramas creadas por git branch 
