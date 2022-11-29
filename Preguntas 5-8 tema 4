@@ -1,0 +1,23 @@
+5.En Git, ¿para qué sirve el comando `git config`? 
+
+El comando git config sirve para definir valores de configuración a nivel de un proyecto
+
+------
+
+6.En Git, ¿para qué sirve el comando `git init`? 
+
+El comando git init sirve para crear un nuevo repositorio
+
+------
+
+7.En Git, ¿para qué sirve el comando `git clone`? 
+
+El comando git clone se utiliza para apuntar a un repositorio existente y clonar o copiar dicho  repositorio en un nuevo directorio en otra ubicación.
+
+------
+
+8.En Git, ¿para qué sirve el comando `git status`? 
+
+El comando git status muestra el estado del directorio de trabajo y del área del entorno de ensayo
+
+------
