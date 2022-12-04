@@ -1,0 +1,39 @@
+15.En Git, ¿para qué sirve el comando `git branch`? 
+
+El comando git branch nos permite crear, enumerar y eliminar ramas, así como cambiar su nombre.
+
+------
+
+16.En Git, ¿para qué sirve el comando `git checkout`? 
+
+El comando git checkout nos permite desplazarnos entre las ramas creadas por git branch .
+
+------
+
+17.En Git, ¿para qué sirve el comando `git merge`? 
+
+El comando git merge nos permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama. 
+
+------
+
+18.En Git, explica cómo funciona la fusión (merge) de tipo fast-forward.
+
+Fast Forward en Git Merge puede definirse como una opción de gran utilidad y eficiencia para acelerar el flujo de trabajo en el proceso del proyecto. Esto lo consigue mediante la armonización de la rama principal del  proyecto, con las modificaciones resultantes de la creación de una rama feature con determinadas especificaciones de cambios.
+
+Esta opción también se conoce como avance rápido y destaca por su capacidad de cambiar el  head en el sistema.
+
+------
+
+19.En Git, explica cómo funciona la fusión (merge) de tipo 3-way.
+
+ Cuando no hay un proceso lineal hacia la rama de destino, Git no tiene más opción que combinarlas mediante una fusión de 3 vías. Las fusiones de 3 vías utilizan una confirmación específica para unir dos historiales.
+
+
+
+------
+
+
+
+```
+
+```
